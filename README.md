@@ -1,6 +1,6 @@
 # ![Frontend Evolution (1995-2019)](title.png)
 
-[![Frontend Evolution Timeline](frontend-evolution.png)](frontend-evolution.png)
+[![Frontend Evolution Timeline](frontend-evolution.png)](frontend-evolution.png?raw=true)
 
 ### 🌐 Browsers
 
@@ -145,9 +145,9 @@
 
 ## 👨‍💻 Author
 
-🐦 <https://twitter.com/Manz>
-🏷️ <https://lenguajehtml.com/>
-🎨 <https://lenguajecss.com/>
-💻 <https://lenguajejs.com/>
-🖥️ <https://terminaldelinux.com/>
-⚡ <https://manzdev.github.io/>
+- 🐦 <https://twitter.com/Manz>
+- 🏷️ <https://lenguajehtml.com/>
+- 🎨 <https://lenguajecss.com/>
+- 💻 <https://lenguajejs.com/>
+- 🖥️ <https://terminaldelinux.com/>
+- ⚡ <https://manzdev.github.io/>
