@@ -4,6 +4,7 @@
 
 ### 🌐 Browsers
 
+- [1994] Netscape Navigator [http://browser.netscape.com/](https://web.archive.org/web/20070630143634/http://browser.netscape.com/)
 - [1995] Internet Explorer <https://www.microsoft.com/es-es/download/internet-explorer.aspx>
 - [1995] Opera <https://www.opera.com/es>
 - [2002] Mozilla Firefox <https://www.mozilla.org/en-US/firefox/new/>
@@ -33,7 +34,6 @@
 - [1996] CSS1 <https://www.w3.org/TR/REC-CSS1/>
 - [1999] CSS3 <https://www.w3.org/TR/CSS/>
 - [1996] Flash <https://www.adobe.com/es/products/flashplayer.html>
-- [1997] ActionScript <https://www.adobe.com/devnet/actionscript.html>
 
 ### CSS Preprocessors
 
@@ -75,15 +75,25 @@
 
 ## 💻 Javascript Ecosystem
 
+### Third-party & Others
+
+- [1995] Java Applets* <https://www.java.com/es/>
+- [1997] ActionScript <https://www.adobe.com/devnet/actionscript.html>
+- [2011] WebGL <https://www.khronos.org/webgl/>
+
+\* *Not Javascript*
+
 ### Javascript vanilla
 
-- [1995] Javascript [ES1 Edition](https://www.ecma-international.org/publications/files/ECMA-ST-ARCH/ECMA-262,%201st%20edition,%20June%201997.pdf)
+- [1995] Javascript *Not standard yet*
+- [1997] Javascript [ES1 Edition](https://www.ecma-international.org/publications/files/ECMA-ST-ARCH/ECMA-262,%201st%20edition,%20June%201997.pdf)
+- [1999] Javascript [ES3 Edition](https://www-archive.mozilla.org/js/language/E262-3.pdf)
 - [2009] Javascript [ES5 Edition](https://www.ecma-international.org/publications/files/ECMA-ST-ARCH/ECMA-262%205th%20edition%20December%202009.pdf)
-- [2015] Javascript [ES6 Edition](https://www.ecma-international.org/ecma-262/6.0/index.html)
-- [2016] Javascript [ES7 Edition](https://www.ecma-international.org/ecma-262/7.0/index.html)
-- [2015] Javascript [ES8 Edition](https://www.ecma-international.org/ecma-262/8.0/index.html)
-- [2016] Javascript [ES9 Edition](https://www.ecma-international.org/ecma-262/9.0/index.html)
-- [2017] Javascript [ES10 Edition](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
+- [2015] Javascript [ES2015/ES6 Edition](https://www.ecma-international.org/ecma-262/6.0/index.html)
+- [2016] Javascript [ES2016/ES7 Edition](https://www.ecma-international.org/ecma-262/7.0/index.html)
+- [2015] Javascript [ES2017/ES8 Edition](https://www.ecma-international.org/ecma-262/8.0/index.html)
+- [2016] Javascript [ES2018/ES9 Edition](https://www.ecma-international.org/ecma-262/9.0/index.html)
+- [2017] Javascript [ES2019/ES10 Edition](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
 
 ### JS libraries
 
@@ -98,6 +108,8 @@
 ### JS superlanguage & transpilers
 
 - [2009] CoffeeScript <https://coffeescript.org/>
+- [2009] Closure Compiler <https://developers.google.com/closure/compiler/>
+- [2011] Traceur <https://github.com/google/traceur-compiler>
 - [2012] Elm <https://elm-lang.org/>
 - [2012] 6to5 transpiler <https://github.com/6to5>
 - [2012] Typescript <https://www.typescriptlang.org/>
@@ -109,6 +121,7 @@
 - [2010] Backbone <https://backbonejs.org/>
 - [2010] AngularJS <https://angularjs.org/>
 - [2011] EmberJS <https://emberjs.com/>
+- [2013] RiotJS <https://riot.js.org/>
 - [2013] React <https://reactjs.org/>
 - [2014] Aurelia <https://aurelia.io/>
 - [2014] Marko <https://markojs.com/>
@@ -137,6 +150,7 @@
 
 - [2010] NPM <https://www.npmjs.com/>
 - [2010] Browserify <http://browserify.org/>
+- [2012] Bower <https://bower.io/>
 - [2012] Grunt <https://gruntjs.com/>
 - [2013] Webpack <https://webpack.js.org/>
 - [2014] Gulp <https://gulpjs.com/>
