@@ -78,6 +78,7 @@
 ### Third-party & Others
 
 - [1995] Java Applets* <https://www.java.com/es/>
+- [1996] XML <https://www.w3.org/XML/>
 - [1997] ActionScript <https://www.adobe.com/devnet/actionscript.html>
 - [2011] WebGL <https://www.khronos.org/webgl/>
 
@@ -88,6 +89,7 @@
 - [1995] Javascript *Not standard yet*
 - [1997] Javascript [ES1 Edition](https://www.ecma-international.org/publications/files/ECMA-ST-ARCH/ECMA-262,%201st%20edition,%20June%201997.pdf)
 - [1999] Javascript [ES3 Edition](https://www-archive.mozilla.org/js/language/E262-3.pdf)
+- [2001] JSON <https://json.org/>
 - [2009] Javascript [ES5 Edition](https://www.ecma-international.org/publications/files/ECMA-ST-ARCH/ECMA-262%205th%20edition%20December%202009.pdf)
 - [2015] Javascript [ES2015/ES6 Edition](https://www.ecma-international.org/ecma-262/6.0/index.html)
 - [2016] Javascript [ES2016/ES7 Edition](https://www.ecma-international.org/ecma-262/7.0/index.html)
@@ -155,6 +157,7 @@
 - [2013] Webpack <https://webpack.js.org/>
 - [2014] Gulp <https://gulpjs.com/>
 - [2015] Rollup <https://rollupjs.org/>
+- [2016] Yarn <https://yarnpkg.com/>
 - [2017] Parcel <https://parceljs.org/>
 
 ## 👨‍💻 Author
