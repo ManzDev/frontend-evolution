@@ -68,6 +68,7 @@
 - [2012] Pure CSS <https://purecss.io/>
 - [2013] Semantic UI <https://semantic-ui.com/>
 - [2013] Materialize CSS <https://materializecss.com/>
+- [2014] Tachyons <https://tachyons.io/>
 - [2015] Milligram <https://milligram.io/>
 - [2015] Bulma <https://bulma.io/>
 - [2015] UIKit <https://getuikit.com/>
@@ -78,9 +79,14 @@
 ### Third-party & Others
 
 - [1995] Java Applets* <https://www.java.com/es/>
+- [1996] ActiveX [http://activex.microsoft.com/](http://web.archive.org/web/20050930205552/http://activex.microsoft.com/)
 - [1996] XML <https://www.w3.org/XML/>
 - [1997] ActionScript <https://www.adobe.com/devnet/actionscript.html>
+- [2004] Adobe Flex <https://www.adobe.com/es/products/flex.html>
+- [2007] Silverlight <https://www.microsoft.com/silverlight/>
+- [2008] Adobe AIR <https://www.adobe.com/products/air.html>
 - [2011] WebGL <https://www.khronos.org/webgl/>
+- [2015] WebAssembly <https://webassembly.org/>
 
 \* *Not Javascript*
 
@@ -126,6 +132,7 @@
 - [2013] RiotJS <https://riot.js.org/>
 - [2013] React <https://reactjs.org/>
 - [2014] Aurelia <https://aurelia.io/>
+- [2014] Mithril <https://mithril.js.org/>
 - [2014] Marko <https://markojs.com/>
 - [2015] Vue <https://vuejs.org/>
 - [2015] Preact <https://preactjs.com/>
